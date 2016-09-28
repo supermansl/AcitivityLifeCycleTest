@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcitivityLifeCycleTest</string>
+    <string name="title_activity_normal_acitivity">NormalAcitivity</string>
+</resources>
